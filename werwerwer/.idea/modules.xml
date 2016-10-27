@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/werwerwer.iml" filepath="$PROJECT_DIR$/.idea/modules/werwerwer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/werwerwer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/werwerwer_main.iml" group="werwerwer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/werwerwer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/werwerwer_test.iml" group="werwerwer" />
+    </modules>
+  </component>
+</project>
